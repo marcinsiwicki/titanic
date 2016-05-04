@@ -1,0 +1,5 @@
+data/interim/*
+data/processed/*
+notebooks/.ipynb-checkpoints/*
+*.DS_Store
+data/results*
